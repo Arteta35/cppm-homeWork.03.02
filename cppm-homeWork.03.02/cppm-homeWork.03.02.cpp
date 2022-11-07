@@ -27,7 +27,6 @@ public:
 
 	void equal() { std::cout << a << std::endl; }
 
-	void set() { std::cin >> a; }
 
 
 };
